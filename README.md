@@ -1,2 +1,2 @@
-# Discord-Image-Classification-Bot
+# Telegram-Image-Classification-Bot
 bot for classification
